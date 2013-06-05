@@ -1,4 +1,5 @@
 memos.js
 =======
 
-Memos.js is Super small publish subsribe broadcast javascript library
+Memos.js is very small publish subsribe broadcast javascript library. It requires no jquery. 
+
