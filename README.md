@@ -12,3 +12,6 @@ Features
 * very small
 
 
+Here is the plnkr for the example 
+
+http://www.plnkr.co/edit/7xZvIS?p=preview
