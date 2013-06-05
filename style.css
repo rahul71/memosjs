@@ -1,0 +1,24 @@
+/* Styles go here */
+body
+{
+  font-family: Tahoma, Arial, Sans-Serif;
+  font-size: .8em;
+}
+.widget
+{
+ border:1px solid gray; 
+ height:200px;
+ width:50%;
+ padding: 5%;
+
+}
+#txtMsg
+{
+  width:85%;
+  margin: 5%;
+}
+#txtReceive1, #txtReceive2
+{
+  height:50%;
+  width:85%;
+}
