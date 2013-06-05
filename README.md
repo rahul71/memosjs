@@ -7,7 +7,7 @@ Features
 
 * publish, subscribe and broadcast
 
-* No JQuer
+* No JQuery
 
 * very small
 
