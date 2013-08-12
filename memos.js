@@ -1,6 +1,8 @@
 //Created by Rahul Agarwal (rahul71@gmail.com) 6-5-2013. 
 //Feel free to do what you want with this code. 
 //Please keep my name in there if you dont mind.
+//Also fell free to rant and moan if you think this is crappy. 
+//I am open to criticism and want to lear form you. 
 
 var memos = {
   list: {},
