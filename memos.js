@@ -2,7 +2,7 @@
 //Feel free to do what you want with this code. 
 //Please keep my name in there if you dont mind.
 //Also feel free to rant and moan if you think this is crappy. 
-//I am open to criticism and want to learn form you. 
+//I am open to criticism and want to learn from you. 
 
 var memos = {
   list: {},
