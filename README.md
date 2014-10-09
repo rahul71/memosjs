@@ -14,4 +14,4 @@ Features
 
 Here is the plnkr for the example 
 
-http://www.plnkr.co/edit/7xZvIS?p=preview
+http://plnkr.co/edit/eCtZyvtuKWLAq9DaKegb?p=preview
